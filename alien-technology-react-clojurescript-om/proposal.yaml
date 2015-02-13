@@ -1,0 +1,32 @@
+---
+Session:
+  Title: >
+    Alien Technology - A Look at React's Ideas and beyond: ClojureScript and Om
+  Description: >
+    In this talk we'll look at the unconventional ideas behind React and explore how to make use of even wilder ones coming from ClojureScript and Om. React's history will serve as an example to illustrate how new concepts that are _alien_ and incomprehensible at first can turn into powerful _alien technology_ - something so advanced it's too good to be true. When React was released, most of all JSX _alienated_ people. Only when Pete Hunt helped us understand the ideas behind it, did we begin to realize React's potential. A paradigm shift began: from "the V in MVC" to a platform embracing simplicity, which allows it to support various rendering contexts and to be exploited by Om. What lessons can we learn from this to better judge new technology? To try out our new yard sticks, I'll take you on a tour of the alien territories on our horizon: immutable data structures, Om's reference cursors, core.async, (here be dragons :) and hope to send you off with some alien artefacts of your own.
+         
+  Length: 40
+  Tags:
+    - reactjs
+    - om
+    - clojurescript
+    - conceptual overview
+    - history of react
+    - meta
+
+Speaker1:
+  name: Paul Wittmann
+  twitter: wakkahari
+  github: paulwittmann
+  url: http://www.railslove.com/paul
+  past_experience:
+    - "extensive experience report http://www.railslove.com/stories/my-way-into-clojure-building-a-card-game-with-om-part-1"
+    - "blog post: http://www.railslove.com/stories/fresh-on-our-radar-react-native"
+    - "talk: https://paulwittmann.github.io/railscamp-2014-alien-technology held at Railscamp Germany 2014"
+    - "talk: https://paulwittmann.github.io/cgnjs-om/ held at Cologne.js JavaScript user group"
+    - taught several web development workshops
+    - "Master's degree in philosophy and English literature at the universities
+      of Heidelberg and Manchester, thesis on the Science Wars"
+  email: paul@railslove.com
+  bio: >
+    Paul is a philosopher / literary scholar turned Ruby, JavaScript, and Clojure developer. Hew works at Railslove, where he's hungry to find simple solutions by uncovering the root of problems. He hates technical debt and loves questioning conventions and best practices to change them for the better.
